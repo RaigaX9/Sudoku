@@ -1,0 +1,33 @@
+.marginTop{
+    margin-top: 20px !important;
+}
+.marginLeft{
+    margin-left: 40px !important;
+}
+.marginBottom{
+    margin-bottom: 20px !important;
+    border-bottom:3px solid #000000;
+}
+input.valid{
+    color: #00650c !important;
+}
+input.error {
+    color: #a31919 !important;
+}
+.grid-border {
+    margin-top:45px;
+    border: medium solid #000000;
+    -moz-border-radius: 45px;
+    -webkit-border-radius: 45px;
+}
+.center1 {
+    margin-right: 50px;
+}
+.center2 {
+    margin-left: 70px;
+}
+.vertical-line{
+    width: 0px;
+    height: 50px;
+    border-right:3px solid #000000;
+}
